@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "authors": [
-    "Angello Pozo <angellopozo@gmail.com>"
+    "Angello Pozo"
   ],
   "license": "MIT",
   "dependencies": {
