@@ -1,0 +1,18 @@
+{
+  "name": "json-key-reducer-loader",
+  "version": "0.1.0",
+  "description": "A Webpack loader that will reduce the amount of keys returned",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "authors": [
+    "Angello Pozo <angellopozo@gmail.com>"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "loader-utils": "^1.1.0",
+    "lodash.pick": "^4.4.0",
+    "schema-utils": "^1.0.0"
+  }
+}
